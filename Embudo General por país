@@ -1,4 +1,3 @@
-##Code##
 -- OBJETIVO: actualizar este código para segmentar el embudo por país (country)
 -- 1) Incluye country en TODOS los CTEs (first_visits, select_item, ..., purchase)
 -- 2) En funnel_counts: une por user_id y country; agrupa por fv.country
